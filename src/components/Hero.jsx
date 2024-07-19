@@ -26,7 +26,7 @@ const Hero = () => {
         <TypingEffectComponent/>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           We specialize in digital-marketing, website development, custom software solutions, CMS integration, mobile applications, and AI solutions
-          </p>
+          </p> 
         </div>
         <div className=" h-max relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl ">
