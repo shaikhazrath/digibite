@@ -40,7 +40,7 @@ const Collaboration = () => {
               <div className="w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full">
                 <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                   <img
-                    src='https://cloud.appwrite.io/v1/storage/buckets/669a088300373b5b7182/files/669a089b000dc5a204d0/view?project=669a004e003917b94ece&mode=admin'
+                    src='https://cloud.appwrite.io/v1/storage/buckets/669a088300373b5b7182/files/669a10b700009ecc8835/view?project=669a004e003917b94ece&mode=admin'
                     width={48}
                     height={48}
                     alt="DigiBait"
