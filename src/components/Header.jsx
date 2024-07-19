@@ -39,7 +39,7 @@ const Header = () => {
         <a className=" w-[12rem] xl:mr-8 flex items-center font-bold text-xl
         " href="#hero">
           <img src='https://cloud.appwrite.io/v1/storage/buckets/669a088300373b5b7182/files/669a089b000dc5a204d0/view?project=669a004e003917b94ece&mode=admin' width={40} height={40} alt="DigiBait" />
-          <h1>Digibite</h1>
+          <h1>PrimeWave</h1>
         </a>
 
         <nav
